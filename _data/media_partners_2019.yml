@@ -38,6 +38,10 @@
   img: itpug.svg
   url: http://pgday.it
 
+- name: Speck & Tech
+  img: speck-tech.svg
+  url: https://speckand.tech/
+
 - name: Manning
   img: manning.svg
   url: https://www.manning.com/
